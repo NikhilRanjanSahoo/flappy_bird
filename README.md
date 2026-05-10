@@ -1,7 +1,3 @@
-Here is a clean, professional, and comprehensive `README.md` "About" section for your GitHub repository! It highlights all the advanced mechanics, object-oriented principles, and features you built into this project.
-
----
-
 # 🐦 Flapping Bird (C++ / SFML)
 
 A fully featured, object-oriented Flappy Bird clone built from scratch using **C++** and the **SFML** (Simple and Fast Multimedia Library).
